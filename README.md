@@ -13,3 +13,5 @@
 
 #### 2) Big-O gösterimini yazınız.
 	O(nlogn)
+
+  [Patika.dev](https://app.patika.dev/)
